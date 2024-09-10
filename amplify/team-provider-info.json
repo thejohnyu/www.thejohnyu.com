@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wwwthejohnyucom-staging-30e43-authRole",
+      "UnauthRoleArn": "arn:aws:iam::879643199541:role/amplify-wwwthejohnyucom-staging-30e43-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::879643199541:role/amplify-wwwthejohnyucom-staging-30e43-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-wwwthejohnyucom-staging-30e43-deployment",
+      "UnauthRoleName": "amplify-wwwthejohnyucom-staging-30e43-unauthRole",
+      "StackName": "amplify-wwwthejohnyucom-staging-30e43",
+      "StackId": "arn:aws:cloudformation:us-east-1:879643199541:stack/amplify-wwwthejohnyucom-staging-30e43/bc8fc2c0-6f11-11ef-921f-125ef1162f2f",
+      "AmplifyAppId": "d39rv2adkvmp8c"
+    }
+  }
+}
